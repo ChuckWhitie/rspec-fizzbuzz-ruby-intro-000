@@ -13,7 +13,7 @@ def fizzbuzz(int)
       end
     end
 end
-puts fizzbuzz(3)
-puts fizzbuzz(5)
-puts fizzbuzz(15)
-puts fizzbuzz(4)
+#puts fizzbuzz(3)
+#puts fizzbuzz(5)
+#puts fizzbuzz(15)
+#puts fizzbuzz(4)
